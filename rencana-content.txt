@@ -1,6 +1,8 @@
 Rencana Kontent
 
 - Javascript
+ *  ES 6
+ * Framework JS
 - PHP Frameworks
 - Interview
 - Blog
