@@ -3,6 +3,7 @@ Rencana Kontent
 - Javascript
  *  ES 6
  * Framework JS
+ - Fundamental Data Structure
 - PHP Frameworks
 - Interview
 - Blog
