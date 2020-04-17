@@ -1,0 +1,6 @@
+Rencana Kontent
+
+- Javascript
+- PHP Frameworks
+- Interview
+- Blog
