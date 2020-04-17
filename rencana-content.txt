@@ -3,7 +3,8 @@ Rencana Kontent
 - Javascript
  *  ES 6
  * Framework JS
-  ^ Angular
+  ^ Tambah cabang Test Feature 1
+ - Fundamental Data Structure
 - PHP Frameworks
 - Interview
 - Blog
