@@ -4,7 +4,6 @@ Rencana Kontent
  *  ES 6
  * Framework JS
   ^ Angular
- - Fundamental Data Structure
 - PHP Frameworks
 - Interview
 - Blog
